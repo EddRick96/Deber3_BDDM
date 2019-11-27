@@ -1,0 +1,329 @@
+/*1*/
+{
+    "Nombre": "Diego Cedeño",
+    "Edad": "22",
+    "Colegio": "Pedro Travesari",
+    "Etnia": "Mestizo",
+    "País": "Argentina",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638629"
+} 
+
+/*2*/
+{
+    "Nombre": "Jessyca Alarcón",
+    "Edad": "21",
+    "Colegio": "Nuestra Señora del Cisne",
+    "Etnia": "Mestizo",
+    "País": "Ecuador",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638628"
+}
+
+/*3*/
+{
+    "Nombre": "Fernanda Brito",
+    "Edad": "20",
+    "Colegio": "María Augustia Urrutia",
+    "Etnia": "Mestizo",
+    "País": "Ecuador",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638627"
+}
+
+/*4*/
+{
+    "Nombre": "Raul Torres",
+    "Edad": "19",
+    "Colegio": "Fe y Alegría",
+    "Etnia": "Mestizo",
+    "País": "Venezuela",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638626"
+}
+
+/*5*/
+{
+    "Nombre": "Susana Coque",
+    "Edad": "18",
+    "Colegio": "Montufar",
+    "Etnia": "Mestizo",
+    "País": "Colombia",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638625"
+}
+
+/*6*/
+{
+    "Nombre": "Carmen Carrasco",
+    "Edad": "18",
+    "Colegio": "Mejía",
+    "Etnia": "Mestizo",
+    "País": "Colombia",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638623"
+}
+
+/*7*/
+{
+    "Nombre": "Judith Rodriguez",
+    "Edad": "19",
+    "Colegio": "Pedro Travesari",
+    "Etnia": "Mestizo",
+    "País": "Venezuela",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638624"
+}
+
+/*8*/
+{
+    "Nombre": "Fany Flores",
+    "Edad": "20",
+    "Colegio": "Montufar",
+    "Etnia": "Mestizo",
+    "País": "Ecuador",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638622"
+}
+
+/*9*/
+{
+    "Nombre": "Richard Zurita",
+    "Edad": "21",
+    "Colegio": "Montufar",
+    "Etnia": "Mestizo",
+    "País": "Ecuador",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638621"
+}
+
+/*10*/
+{
+    "Nombre": "Athony Cedeño",
+    "Edad": "22",
+    "Colegio": "Nuestra Señora del Cisne",
+    "Etnia": "Mestizo",
+    "País": "Ecuador",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638620"
+}
+
+/*11*/
+{
+    "Nombre": "Ingrid Minya",
+    "Edad": "23",
+    "Colegio": "Nuestra Señora del Cisne",
+    "Etnia": "Mestizo",
+    "País": "Ecuador",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638632"
+}
+
+/*12*/
+{
+    "Nombre": "Bryan Ruiz",
+    "Edad": "22",
+    "Colegio": "Mejia",
+    "Etnia": "Mestizo",
+    "País": "Ecuador",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638666"
+}
+
+/*13*/
+{
+    "Nombre": "Walter Mercado",
+    "Edad": "21",
+    "Colegio": "Fe y Alegría",
+    "Etnia": "Mestizo",
+    "País": "Ecuador",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638678"
+}
+
+/*14*/
+{
+    "Nombre": "Fredy Crugger",
+    "Edad": "20",
+    "Colegio": "Fe y Alegría",
+    "Etnia": "Mestizo",
+    "País": "Ecuador",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638687"
+}
+
+/*15*/
+{
+    "Nombre": "Jason Json",
+    "Edad": "19",
+    "Colegio": "María Augustia Urrutia",
+    "Etnia": "Mestizo",
+    "País": "Ecuador",
+    "Ciudad": "Quito",
+    "Teléfono": "0983638600"
+}
+
+/*16*/
+{
+  "Nombre":"Erick Bolaños",
+  "Edad":"23",
+  "Colegio":"Hermano Miguel",
+  "Etnia":"Mestizo",
+  "Pais":"Ecuador",
+  "Ciudad":"Quito",
+  "Telefono":"0998938539"
+}
+
+/*17*/
+{
+  "Nombre":"Josselyn Vela",
+  "Edad":"21",
+  "Colegio":"Sto. de Guzman",
+  "Etnia":"Mestizo",
+  "Pais":"Ecuador",
+  "Ciudad":"Loja",
+  "Telefono":"0987930036"
+}
+
+/*18*/
+{
+  "Nombre":"Anthony Cabrera",
+  "Edad":"24",
+  "Colegio":"Fernandez Madrid",
+  "Etnia":"Mestizo",
+  "Pais":"Ecuador",
+  "Ciudad":"Quito",
+  "Telefono":"0988930529"
+}
+
+/*19*/
+{
+  "Nombre":"Francis Villacis",
+  "Edad":"23",
+  "Colegio":"Matovelle",
+  "Etnia":"Mestizo",
+  "Pais":"Ecuador",
+  "Ciudad":"Quito",
+  "Telefono":"0997932500"
+}
+
+/*20*/
+{
+  "Nombre":"Diego Bernal",
+  "Edad":"28",
+  "Colegio":"Hermano Miguel",
+  "Etnia":"Mulato",
+  "Pais":"Ecuador",
+  "Ciudad":"Guayaquil",
+  "Telefono":"0978030536"
+}
+
+/*21*/
+{
+  "Nombre":"Karol Tipan",
+  "Edad":"21",
+  "Colegio":"Fernandez Madrid",
+  "Etnia":"Mestizo",
+  "Pais":"Ecuador",
+  "Ciudad":"Quito",
+  "Telefono":"0966937549"
+}
+
+/*22*/
+{
+  "Nombre":"Evelyn Cadena",
+  "Edad":"23",
+  "Colegio":"Sto. de Guzman",
+  "Etnia":"Mestizo",
+  "Pais":"Ecuador",
+  "Ciudad":"Machala",
+  "Telefono":"0996638540"
+}
+
+/*23*/
+{
+  "Nombre":"Alison Barrionuevo",
+  "Edad":"21",
+  "Colegio":"Hermano Miguel",
+  "Etnia":"Mestizo",
+  "Pais":"Ecuador",
+  "Ciudad":"Carapungo",
+  "Telefono":"0970038535"
+}
+
+/*24*/
+{
+  "Nombre":"Santiago Guerra",
+  "Edad":"19",
+  "Colegio":"Fernandez Madrid",
+  "Etnia":"Mestizo",
+  "Pais":"Ecuador",
+  "Ciudad":"Cuenca",
+  "Telefono":"0960934039"
+}
+
+/*25*/
+{
+  "Nombre":"Freddy Pinzon",
+  "Edad":"25",
+  "Colegio":"San Andres",
+  "Etnia":"Montubio",
+  "Pais":"Ecuador",
+  "Ciudad":"Manabi",
+  "Telefono":"0998558689"
+}
+
+/*26*/
+{
+  "Nombre":"Luis Ponce",
+  "Edad":"31",
+  "Colegio":"Febres Cordero",
+  "Etnia":"Blanco",
+  "Pais":"Ecuador",
+  "Ciudad":"Carapungo",
+  "Telefono":"0991908520"
+}
+
+/*27*/
+{
+  "Nombre":"Miriam Fernandez",
+  "Edad":"26",
+  "Colegio":"Cardenal de la Torre",
+  "Etnia":"Mestizo",
+  "Pais":"Ecuador",
+  "Ciudad":"Quito",
+  "Telefono":"0978538031"
+}
+
+/*28*/
+{
+  "Nombre":"Juan Zaldumbide",
+  "Edad":"29",
+  "Colegio":"Fernandez Madrid",
+  "Etnia":"Mestizo",
+  "Pais":"Ecuador",
+  "Ciudad":"Carcelen",
+  "Telefono":"0992037523"
+}
+
+/*29*/
+{
+  "Nombre":"Alex Gavilanes",
+  "Edad":"24",
+  "Colegio":"Hermano Miguel",
+  "Etnia":"Mestizo",
+  "Pais":"Ecuador",
+  "Ciudad":"Carcelen",
+  "Telefono":"0998998730"
+}
+
+/*30*/
+{
+  "Nombre":"Marisol Cruz",
+  "Edad":"24",
+  "Colegio":"Hermano Miguel",
+  "Etnia":"Montubio",
+  "Pais":"Ecuador",
+  "Ciudad":"Machala",
+  "Telefono":"0998134500"
+}
